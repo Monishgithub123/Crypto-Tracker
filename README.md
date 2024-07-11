@@ -13,3 +13,4 @@ HTML: For structuring the web application.
 CSS: For styling the web application.
 JavaScript: For implementing functionality and real-time updates.
 Fetch API: For retrieving data from the cryptocurrency API.
+HOSTED LINK -https://monishgithub123.github.io/Crypto-Tracker/
